@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 👋 Hello there! I'm a Senior Full Stack .NET Developer with over a decade of experience in the dynamic world of web development. My journey in this field has been a thrilling adventure, filled with countless opportunities to learn, grow, and innovate. Let's connect and embark on exciting tech adventures together. Feel free to explore my GitHub repositories to see some of the projects I've been working on. Together, we can build the future, one line of code at a time. 🚀
 
-* 🌍  I'm based in Romania
+* 🌍  I'm based in Czech Republic
 * ✉️  You can contact me at [yuriy.shkraba@gmail.com](mailto:yuriy.shkraba@gmail.com)
 
 ### Skills
